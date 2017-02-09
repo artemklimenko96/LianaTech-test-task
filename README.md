@@ -8,4 +8,4 @@ This is a test website, designed with a use of Bootstrap. The site is responsive
 <h3>Tools used:</h3>
 Sublime text 3<br>
 Bootstrap 3<br>
-Google chrome debug consoleToo
+Google chrome debug consoleTool
